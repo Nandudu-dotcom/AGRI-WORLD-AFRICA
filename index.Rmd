@@ -8,4 +8,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## GitHub Documents
-![](webite_assigmnet/TELEMMGLPICT000209310879_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg)
+Agriculture holds the potential to develop Africa since 80% of the population work in the sector. Despite this potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. Agricultural policies currently implemented by African countries are weak and not favor for farmers. 
+Agric-world Africa is a non-profit organization that advocates for farmers by providing technologies and credit that promote potential agricultural productivity 
