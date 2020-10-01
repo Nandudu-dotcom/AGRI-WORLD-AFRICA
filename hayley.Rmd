@@ -13,4 +13,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 + I study Entomology
 + I have run a marathon
++ I have an insect art RedBubble Store called The Bug Ladies
 
+![I also love backpacking](Hayley.Photo.jpg.JPG)
