@@ -1,0 +1,28 @@
+---
+title: "leah Nandudu"
+author: "Leah Nandudu"
+date: "10/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+![]("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/AGRI-WORLD-AFRICA/digital_agriculture-africa-me.jpg)
+
+           #AGRI-WORLD AFRICA
+           #"Bringing sustainable solutions to African farmers"
+
+![]("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/AGRI-WORLD-AFRICA/afr-public-spending-priorities-for-african-agriculture-productivity-growth-feature-780x439.jpg)
+![]("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/AGRI-WORLD-AFRICA/Kenyan-farmer-picks-tea-MAIN.jpg)
+
+
+Agriculture holds the potential to develop Africa since 80% of the population work in the sector. Despite this potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. Agricultural policies currently implemented by African countries are weak and not favor for farmers. 
+
+![]("/Users/ln242/Documents/Fall_classes_2020/NTRES_DATA_SCIENCE/Git_class_folder/AGRI-WORLD-AFRICA/image-20150918-17701-mfm9vy.jpg)
+
+Agric-world Africa is a non-profit organization that advocates for farmers by providing technologies and credit that promote potential agricultural productivity 
+
+## Field operations
