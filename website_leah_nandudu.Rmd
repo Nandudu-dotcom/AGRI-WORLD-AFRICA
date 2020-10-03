@@ -1,5 +1,5 @@
 ---
-title: "leah Nandudu"
+                      title: "AGRI-WORLD AFRICA"
 author: "Leah Nandudu"
 date: "10/2/2020"
 output: html_document
@@ -7,21 +7,25 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+setwd("/Users/ln242/Desktop")
 ```
 
-## R Markdown
-![](~/Desktop/des/digital_agriculture-africa-me.jpg)
 
-           #AGRI-WORLD AFRICA
-           #"Bringing sustainable solutions to African farmers"
+## AGRI-WORLD AFRICA
+![](digital_agriculture-africa-me.jpg)
+ #Africa's biggest agricultural technology and credit provide
+ ## Putting women's needs first in the agricultural value chain
 
-![](~/Desktop/des/afr-public-spending-priorities-for-african-agriculture-productivity-growth-feature-780x439.jpg)
-![](~/Desktop/des/Kenyan-farmer-picks-tea-MAIN.jpg)
+           
+          
+
+![](afr-public-spending-priorities-for-african-agriculture-productivity-growth-feature-780x439.jpg)
+![](Kenyan-farmer-picks-tea-MAIN.jpg)
 
 
 Agriculture holds the potential to develop Africa since 80% of the population work in the sector. Despite this potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. Agricultural policies currently implemented by African countries are weak and not favor for farmers. 
 
-![](~/Desktop/des/image-20150918-17701-mfm9vy.jpg)
+![](image-20150918-17701-mfm9vy.jpg)
 
 Agric-world Africa is a non-profit organization that advocates for farmers by providing technologies and credit that promote potential agricultural productivity 
 
@@ -29,10 +33,10 @@ Agric-world Africa is a non-profit organization that advocates for farmers by pr
 Uganda, Nigeria, South Africa ,Ghana, Kenya, Rwanda among others 
 
 ##Head office 
-    ###Plot 111-113 Namatala 
+    Plot 111-113 Namatala 
     Mbale central city 
     Uganda , East Africa 
     
-![](~/Desktop/des/TELEMMGLPICT000209310879_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg)    
-    
+![](TELEMMGLPICT000209310879_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg)    
+             #### solutions worth every farmers' smile
     
