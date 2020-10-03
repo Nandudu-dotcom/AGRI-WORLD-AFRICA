@@ -1,20 +1,44 @@
 ---
-                      title: "AGRI-WORLD AFRICA"
+title: "AGRI-WORLD AFRICA"
 author: "Leah Nandudu"
 date: "10/2/2020"
 output: html_document
 ---
 
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: Green;
+  text-align: center;
+}
+h4.author { 
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkRed;
+  text-align: center;
+}
+h4.date {
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+  text-align: center;
+}
+</style>
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-setwd("/Users/ln242/Desktop")
 ```
 
-
-## AGRI-WORLD AFRICA
+```{r setdir, echo = FALSE}
+setwd("/Users/ln242/Desktop/des")
+```
+<br /> <br /> <br />
 ![](digital_agriculture-africa-me.jpg)
- # Africa's biggest agricultural technology and credit provide
- ## Putting women's needs first in the agricultural value chain
+ <br /> <center>
+ <h3> Africa's biggest agricultural technology and credit provider </h3>
+ <br />
+ <h3>Putting women's needs first in the agricultural value chain</h3> </center>
 
            
           
@@ -22,21 +46,29 @@ setwd("/Users/ln242/Desktop")
 ![](afr-public-spending-priorities-for-african-agriculture-productivity-growth-feature-780x439.jpg)
 ![](Kenyan-farmer-picks-tea-MAIN.jpg)
 
+ <br />
+<h3> Agriculture holds the potential to develop Africa since 80% of the population formally work in the sector. Despite its potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. <h3>
 
-Agriculture holds the potential to develop Africa since 80% of the population work in the sector. Despite this potential Agriculture is underdeveloped mainly due to the lack of access to proper inputs and credit services. Agricultural policies currently implemented by African countries are weak and not favor for farmers. 
+<br />
+<h3>Agricultural policies currently implemented by African countries are weak and do not favor farmers. <h3>
 
 ![](image-20150918-17701-mfm9vy.jpg)
 
-Agric-world Africa is a non-profit organization that advocates for farmers by providing technologies and credit that promote potential agricultural productivity 
+ <br />
+<h3>Agric-world Africa is a farmer led organization that is  non-profit.
+We advocate for farmers'rights by providing technologies and credit services.
+These are high quality services that boost agricultural procuctivity .<h3>
 
 ## Field operations
-Uganda, Nigeria, South Africa ,Ghana, Kenya, Rwanda among others 
+ <br />
+<h3>Uganda, Nigeria, South Africa ,Ghana, Kenya, Rwanda among others <h3>
 
 ## Head office 
-    Plot 111-113 Namatala 
+ <br />
+    <h3>Plot 111-113 Namatala 
     Mbale central city 
-    Uganda , East Africa 
+    Uganda , East Africa <h3>
     
 ![](TELEMMGLPICT000209310879_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg)    
-             #### solutions worth every farmers' smile
+<center> <h2>solutions worth every farmers'smile </h2> </center>
     
