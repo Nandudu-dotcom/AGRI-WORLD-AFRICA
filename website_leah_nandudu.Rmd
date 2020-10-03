@@ -13,7 +13,7 @@ setwd("/Users/ln242/Desktop")
 
 ## AGRI-WORLD AFRICA
 ![](digital_agriculture-africa-me.jpg)
- #Africa's biggest agricultural technology and credit provide
+ # Africa's biggest agricultural technology and credit provide
  ## Putting women's needs first in the agricultural value chain
 
            
@@ -32,7 +32,7 @@ Agric-world Africa is a non-profit organization that advocates for farmers by pr
 ## Field operations
 Uganda, Nigeria, South Africa ,Ghana, Kenya, Rwanda among others 
 
-##Head office 
+## Head office 
     Plot 111-113 Namatala 
     Mbale central city 
     Uganda , East Africa 
