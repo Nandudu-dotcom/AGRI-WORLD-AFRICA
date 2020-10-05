@@ -1,18 +1,16 @@
 ---
 title: "Hayley"
-author: "Hayley"
-date: "9/28/2020"
+
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## Hayley 
+![](Bee.Drawing.Green.png)
 
 + I study Entomology
 + I have run a marathon
-+ I have an insect art RedBubble Store called The Bug Ladies
++ I have an insect art RedBubble Store called [The Bug Ladies](https://www.redbubble.com/people/thebugladies)
 
 ![I also love backpacking](Hayley.Photo.jpg.JPG)
